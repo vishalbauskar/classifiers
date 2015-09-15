@@ -1,0 +1,1 @@
+This is a post-graduate studies project about implementing various clustering algorithms.
